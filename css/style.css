@@ -1,0 +1,32 @@
+body{ margin:0; padding:0;font-family: 'Roboto', sans-serif;}
+.clear{ clear:both;}
+a{text-decoration:none;}
+li{ list-style-type:none;}
+header{margin:0; padding:0;}
+.header_in{width:1000px;margin:0 auto; padding:0}
+.logo{ float:left;margin:10px 0 0 0}
+.logo img { width:auto;height:20px;}
+nav{ float:right;margin:0; padding:0}
+nav ul{margin:0; padding:0}
+nav ul li{margin:0; padding:10px;float:left; display:inline-block;}
+nav ul li a{margin:0; padding:0; display:inline-block; font-size:14px;line-height:20px; font-weight:600; color:#000; text-transform:capitalize;}
+.banner{ margin:0; padding:0; background:#ccc url(../images/banner.jpg) no-repeat center; background-size:cover; height:500px;}
+.banner_in{margin:0 auto; padding:0; width:900px;}
+.banner_in h1 {font-size:48px; color:#fff; font-weight:bold;}
+.banner_left { float:left;  width:460px;}
+.banner_left p{font-size: 16px; color:#fff;}
+.banner_left a.downloadapp { border: 1px solid #000; width:165px; margin:0 40px 0 0; float:left; color:#fff; font-size:14px;font-weight:bold;text-transform:capitalize;    background-color: rgba(35, 165, 210, 0.7);}
+.banner_left a.use_now{border:1px solid #000; width:165px; float:left; color:#fff; font-size:14px;font-weight:bold;text-transform:capitalize;    background-color: rgba(35, 165, 210, 0.7);}
+.banner_left a i { font-size:44px; float:left;margin: 10px 0 10px 10px;}
+.banner_left a span{ margin:0; padding:22px 30px 0 0; float:right;}
+.banner_right { width:460px; float:right;}
+.banner_left a:hover {background:rgba(35, 165, 210, 0.8)}
+.banner_right{position:relative; float:right; width:300px;}
+.banner_right img.mobile1 { width:180px; height:auto; margin:0; padding:0; position:absolute; top:70px; right:175px;}
+.banner_right img.mobile2 {width:220px; height:auto; margin:0; padding:0; position:absolute; top:30px; right:30px;}
+.digits { margin:20px 0 0 0;padding:0; text-align:center;}
+.digits ul{ margin:0;padding:0;display:inline-block;}
+.digits ul li{ margin:0 20px 0;padding:0; display:inline-block; float:left;}
+.digits ul li span{ display:block; font-size:25px; color:blue; font-weight:600; margin:0 0 5px 0;}
+.digits ul li em{ display:block; font-style:normal;font-size:15px; color:#222;}
+.main_content{ margin:0 auto; padding:0; width:960px;}
